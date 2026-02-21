@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm <YOUR NAME>
+  Hi 👋, I'm AHSAN
 </h1>
 
 <p align="center">
@@ -64,3 +64,4 @@
 <p align="center">
   🟢 Always Learning | 🔐 Security First | ⚙️ Code Clean
 </p>
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
