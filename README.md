@@ -1,11 +1,12 @@
 <div align="center">
 
 ```
- ▄▄▄·  ▄ .▄.▄∙ ▄▄▄· ▐ ▄ 
-▐█ ▀█ ██▪▐█▐█▪▐█ ▀█ •█▌▐█
-▄█▀▀█ ██▀▐█▐█▌▄█▀▀█ ▐█▐▐▌
-▐█ ▪▐▌██▌▐▀ ▐█▌▐█ ▪▐▌██▐█▌
- ▀  ▀ ▀▀▀ · ▀▀▀  ▀  ▀ ▀▀ █▪
+ █████╗ ██╗  ██╗███████╗ █████╗ ███╗   ██╗    ███████╗ ██████╗ ██╗     
+██╔══██╗██║  ██║██╔════╝██╔══██╗████╗  ██║    ██╔════╝██╔═══██╗██║     
+███████║███████║███████╗███████║██╔██╗ ██║    ███████╗██║   ██║██║     
+██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║    ╚════██║██║   ██║██║     
+██║  ██║██║  ██║███████║██║  ██║██║ ╚████║    ███████║╚██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝ ╚═════╝ ╚══════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%5BROOT%40AHSAN+%7E%5D%23+whoami;Security+Researcher+%2F+Threat+Hunter;Full+Stack+Exploit+Engineer;Breaking+things+to+build+them+better.;%5BROOT%40AHSAN+%7E%5D%23+_" />
@@ -22,10 +23,10 @@
 
 [*] Role     : Security Researcher & Full Stack Dev
 [*] Focus    : Offensive Security + Secure Architecture
-[*] Status   : Building. Breaking. Learning.
-[*] OS       : Kali Linux / Arch
+[*] Status   : bulding system & Learning.
+[*] OS       : Kali Linux and balck arch
 [*] Editor   : NeoVim (btw)
-[*] Goal     : Security Engineer / Web Architect
+[*] Goal     : Security Engineer 
 [+] Available for: CTFs, Bug Bounty, Collab
 ```
 
@@ -87,7 +88,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  "The quieter you become, the more you are able to hear."    ║
-║                                          — Kali Linux motto  ║
+║                                          — AHSAN             ║
 ║                                                              ║
 ║  "It's not about being the best. It's about being            ║
 ║   better than you were yesterday."                           ║
@@ -113,11 +114,6 @@
 
 <div align="center">
 
-```
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░]  72% to elite
-
-> Skills loading... persistence.exe running
-> CTF mode: ACTIVE  |  Bug bounty: ACTIVE  |  Sleep: SUSPENDED
 ```
 
 ![](https://komarev.com/ghpvc/?username=ahsan13411&color=00ff41&style=flat-square&label=PROFILE+VISITS)
