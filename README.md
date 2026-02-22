@@ -19,7 +19,7 @@
 
 ```bash
 ┌──[AHSAN@kali]─[~]
-└─$ cat about.txt
+└─$ aboutme.txt
 
 [*] Role     : Security Researcher & Full Stack Dev
 [*] Focus    : Offensive Security + Secure Architecture
@@ -116,6 +116,6 @@
 
 ```
 
-![](https://komarev.com/ghpvc/?username=ahsan13411&color=00ff41&style=flat-square&label=PROFILE+VISITS)
+![profe veiw](https://komarev.com/ghpvc/?username=ahsan13411&color=00ff41&style=flat-square&label=PROFILE+VISITS)
 
 </div>
