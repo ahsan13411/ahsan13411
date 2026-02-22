@@ -62,12 +62,12 @@
 ## `> ./stats.sh --user AHSAN`
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahsan13411&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan13411&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+  <img src="https://streak-stats.demolab.com/?user=ahsan13411&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 </div>
 
 ---
@@ -75,7 +75,7 @@
 ## `> cat trophies.log`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahsan13411&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </div>
 
 ---
@@ -89,7 +89,7 @@
 ║  "The quieter you become, the more you are able to hear."    ║
 ║                                          — Kali Linux motto  ║
 ║                                                              ║
-║  "It's not about being the best. It's about being           ║
+║  "It's not about being the best. It's about being            ║
 ║   better than you were yesterday."                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -102,10 +102,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/YOUR_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)](https://tryhackme.com/p/YOUR_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d1117)](https://app.hackthebox.com/profile/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117)](https://github.com/ahsan13411)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://linkedin.com/in/ahsan13411)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41&labelColor=0d1117)](https://tryhackme.com/p/ahsan13411)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d1117)](https://app.hackthebox.com/profile/ahsan13411)
 
 </div>
 
@@ -120,6 +120,6 @@
 > CTF mode: ACTIVE  |  Bug bounty: ACTIVE  |  Sleep: SUSPENDED
 ```
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square&label=PROFILE+VISITS)
+![](https://komarev.com/ghpvc/?username=ahsan13411&color=00ff41&style=flat-square&label=PROFILE+VISITS)
 
 </div>
